@@ -1,0 +1,259 @@
+/*
+ * Globals
+ */
+
+:root {
+    --color0: #ff0000;
+    --color1: #D92B4B;
+    --color2: #A62139;
+    --color3: #73192A;
+    --color4: #D9D9D9;
+    --color5: #0D0D0D;
+}
+
+/* Custom default button */
+.btn {
+    color: var(--color5);
+    text-shadow: none;
+    /* Prevent inheritance from `body` */
+    background-color: var(--color5) !important;
+    border: .05rem solid var(--color5) !important;
+
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+    animation: flicker 5s infinite alternate;
+    color: var(--color5);
+    text-shadow:
+        0 0 7px var(--color0),
+        0 0 10px var(--color0),
+        0 0 21px var(--color0),
+        0 0 42px var(--color1),
+        0 0 82px var(--color1),
+        0 0 92px var(--color2),
+        0 0 102px var(--color2),
+        0 0 151px var(--color1);
+
+    box-shadow:
+        0 0 7px var(--color0),
+        0 0 10px var(--color0),
+        0 0 21px var(--color0),
+        0 0 42px var(--color1),
+        0 0 82px var(--color1),
+        0 0 92px var(--color2),
+        0 0 102px var(--color2),
+        0 0 151px var(--color1);
+}
+
+/*
+ * Base structure
+ */
+
+html {
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    background-color: var(--color5) !important;
+}
+
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: var(--color4) !important;
+    text-shadow: 0 .05rem .1rem var(--color5);
+    width: 100%;
+    vertical-align: middle;
+}
+
+.cover-container {
+    max-width: 42em;
+}
+
+
+/*
+ * Header
+ */
+.masthead {
+    margin-bottom: 2rem;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--color5);
+    box-shadow: rgba(255, 0, 0, 0.25) 0px 54px 55px, rgba(255, 0, 0, 0.12) 0px -12px 30px, rgba(255, 0, 0, 0.12) 0px 4px 6px, rgba(255, 0, 0, 0.17) 0px 12px 13px, rgba(255, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.masthead-logo-wrapper {
+    margin-bottom: 0;
+    float: left;
+}
+
+.masthead-logo {
+    max-height: 48px;
+    width: auto;
+}
+
+
+.nav-masthead .nav-link {
+    padding: .25rem 0;
+    font-weight: 700;
+    color: rgba(255, 255, 255, .5);
+    background-color: transparent;
+    border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+    border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link+.nav-link {
+    margin-left: 1rem;
+}
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+    .masthead-brand {
+        float: left;
+    }
+
+    .nav-masthead {
+        float: right;
+    }
+}
+
+.nav {
+    --bs-nav-link-color: var(--color1) !important;
+    --bs-nav-link-hover-color: var(--color0) !important;
+}
+
+
+/*
+ * Cover
+ */
+.cover {
+    padding: 0 1.5rem;
+}
+
+.cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700;
+}
+
+.p-heading {
+    margin-bottom: 3rem;
+}
+
+
+/*
+ * Footer
+ */
+.mastfoot {
+    color: rgba(255, 255, 255, .5);
+}
+
+.content {
+    margin-bottom: 30rem;
+    margin-top: 20rem;
+}
+
+.hiddenLeft {
+    opacity: 0;
+    transition: 1s all;
+    transform: translateX(-100%);
+    filter: blur(10px);
+}
+
+.hiddenRight {
+    opacity: 0;
+    transition: 1.2s all;
+    transform: translateX(100%);
+    filter: blur(10px);
+}
+
+@media(prefers-reduced-motion) {
+
+    .hiddenLeft,
+    .hiddenRight {
+        transition: none;
+    }
+}
+
+.show {
+    opacity: 1;
+    transform: translate(0);
+    filter: blur(0);
+}
+
+.redirectLink:link {
+    color: var(--color1);
+}
+
+.redirectLink:visited {
+    color: var(--color2);
+}
+
+.redirectLink:hover {
+    color: var(--color4);
+}
+
+.redirectLink:active {
+    color: var(--color3);
+}
+
+/*
+* Neon Text Styling
+*/
+
+.neonText {
+    animation: flicker 5s infinite alternate;
+    color: #fff;
+    text-shadow:
+        0 0 7px var(--color0),
+        0 0 10px var(--color0),
+        0 0 21px var(--color0),
+        0 0 42px var(--color1),
+        0 0 82px var(--color1),
+        0 0 92px var(--color2),
+        0 0 102px var(--color2),
+        0 0 151px var(--color1);
+}
+
+@keyframes flicker {
+
+    0%,
+    18%,
+    22%,
+    25%,
+    53%,
+    57%,
+    100% {
+
+        text-shadow:
+            0 0 7px var(--color0),
+            0 0 10px var(--color0),
+            0 0 21px var(--color0),
+            0 0 42px var(--color1),
+            0 0 82px var(--color1),
+            0 0 92px var(--color2),
+            0 0 102px var(--color2),
+            0 0 151px var(--color1);
+
+    }
+
+    20%,
+    24%,
+    55% {
+        text-shadow: none;
+    }
+}
