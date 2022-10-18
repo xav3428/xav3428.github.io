@@ -1,0 +1,88 @@
+Qui vous êtes : 
+
+Je suis un étudiant en technique de l'informatique au cégep de l'abitibi-témiscamingue.
+
+Compétences :
+
+- Gestion du stress
+- Rigueur
+- Capacité d'adaptation
+- Curiosité
+- Persévérance
+- Autonomie
+- Sens de la communication
+- Travail en équipe
+- Créativité
+- Sens du service
+- Respectueux
+- Ouvert d'esprit
+- Confiant
+- Sens de l'humour
+- Capacité d'analyser
+- Patient
+- Facilité à vulgariser l'information
+
+Connaissances :
+
+- La suite Miro
+- La suite GitLab
+- La suite Le Petit Robert (En Ligne)
+- La suite toitube (Expert)
+- La suite Omniboîte (Expert)
+- La suite vapeur, origine, gog galaxie, epique jeu lanceur
+- La suite Razer centrale
+- La suite émeute
+- MicroTik
+- La suite VSCode
+- La suite VS 2019
+- La suite Discord
+- La suite MySQL Workbench
+- La suite unité (Unity | Average)
+- La suite Spotify
+- La suite RhythmBox (Beginner)
+
+// Langages
+- JavaScript (Average)
+- PHP (Advanced)
+- Python (Average)
+- HTML (Advanced)
+- CSS (Advanced)
+- C# (Advanced)
+
+// Frameworks
+- NextJS (Beginner)
+- React (Beginner)
+
+// Logiciels
+- GIMP (Average)
+- Office 365 (Advanced)
+- GitLab/Github (Average)
+- Microtik (Average)
+- Unity (Average)
+- VSCode (Average)
+- Docker (Average)
+
+Réalisations :
+
+// En cours
+
+    
+
+// Passées
+////
+Les projets suivants ont été fait avec c# sur visual studio lors de mes cours de programmation de session 2 et 3 dans ma technique de l'informatique. Ils sont tous des projets fait sous le principe de programmation orientée objet. 
+SpaceInvader : 
+Le jeu spaceinvader a été fait avec des classes fesant partie d'une hiérarchie simple. Les aliens étaient tous des enfants d'une classe parent qui possédait leur propriété (vie, vitess, ...).
+Frogger :
+
+////
+
+Game Dev | Terrain/environments
+https://www.youtube.com/watch?v=XIYLLc4965I
+
+
+Scolarité :
+
+- DES
+- DEC
+
