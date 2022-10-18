@@ -148,6 +148,7 @@ body {
 .cover .btn-lg {
     padding: .75rem 1.25rem;
     font-weight: 700;
+    --bs-btn-border-radius: 0.1rem 0.1rem 0.5rem 0.5rem;
 }
 
 .p-heading,
