@@ -150,7 +150,8 @@ body {
     font-weight: 700;
 }
 
-.p-heading {
+.p-heading,
+.lead {
     margin-bottom: 3rem;
 }
 
