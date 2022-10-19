@@ -66,20 +66,24 @@ Réalisations :
 
 // En cours
 
-    
+Logiciel de gestion d'officiel d'un club de natation :
+Ce logiciel est un travail de mon cours de conception logiciel de ma 5e session que je suis présentement en train de suivre. Ce logiciel comprend un frontend fait en NextJS pour l'instant. Il est présentement sur un groupe GitLab privé et pourrait faire son apparition plus tard ici.
+
+
 
 // Passées
 ////
 Les projets suivants ont été fait avec c# sur visual studio lors de mes cours de programmation de session 2 et 3 dans ma technique de l'informatique. Ils sont tous des projets fait sous le principe de programmation orientée objet. 
-SpaceInvader : 
+SpaceInvader :
 Le jeu spaceinvader a été fait avec des classes fesant partie d'une hiérarchie simple. Les aliens étaient tous des enfants d'une classe parent qui possédait leur propriété (vie, vitess, ...).
-Frogger :
+
+
 
 ////
 
-Game Dev | Terrain/environments
+Game Dev | Terrain/environments :
 https://www.youtube.com/watch?v=XIYLLc4965I
-
+Ce projet fut le premier travail dans mon cours de développement de jeu vidéo. Nous avons utilisé Unity 2021.1.13f pour faire nos terrains. J'ai utilisé des modèles et autres de pack gratuits et du pack 
 
 Scolarité :
 
