@@ -73,9 +73,9 @@ Ce logiciel est un travail de mon cours de conception logiciel de ma 5e session 
 
 // Passées
 ////
-Les projets suivants ont été fait avec c# sur visual studio lors de mes cours de programmation de session 2 et 3 dans ma technique de l'informatique. Ils sont tous des projets fait sous le principe de programmation orientée objet. 
+Le projet suivant a été fait avec c# sur visual studio lors de mes cours de programmation de session 2 et 3 dans ma technique de l'informatique. Ils sont tous des projets fait sous le principe de programmation orientée objet. 
 SpaceInvader :
-Le jeu spaceinvader a été fait avec des classes fesant partie d'une hiérarchie simple. Les aliens étaient tous des enfants d'une classe parent qui possédait leur propriété (vie, vitess, ...).
+Le jeu spaceinvader a été fait avec des classes fesant partie d'une hiérarchie simple. Les aliens étaient tous des enfants d'une classe parent qui possédait leur propriété (vie, vitess, ...). 
 
 
 
