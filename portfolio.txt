@@ -24,23 +24,6 @@ Compétences :
 
 Connaissances :
 
-- La suite Miro
-- La suite GitLab
-- La suite Le Petit Robert (En Ligne)
-- La suite toitube (Expert)
-- La suite Omniboîte (Expert)
-- La suite vapeur, origine, gog galaxie, epique jeu lanceur
-- La suite Razer centrale
-- La suite émeute
-- MicroTik
-- La suite VSCode
-- La suite VS 2019
-- La suite Discord
-- La suite MySQL Workbench
-- La suite unité (Unity | Average)
-- La suite Spotify
-- La suite RhythmBox (Beginner)
-
 // Langages
 - JavaScript (Average)
 - PHP (Advanced)
@@ -67,7 +50,11 @@ Réalisations :
 // En cours
 
 Logiciel de gestion d'officiel d'un club de natation :
-Ce logiciel est un travail de mon cours de conception logiciel de ma 5e session que je suis présentement en train de suivre. Ce logiciel comprend un frontend fait en NextJS pour l'instant. Il est présentement sur un groupe GitLab privé et pourrait faire son apparition plus tard ici.
+Ce logiciel est un travail de mon cours de conception logiciel de ma 5e session que je suis présentement en train de suivre. Ce logiciel comprend un frontend fait en NextJS pour l'instant. Il est présentement sur un groupe GitLab privé et pourrait faire son apparition plus tard ici. Le logiciel consiste à donner accès à un gérant pour qu'il puisse faire la gestion des officiels du club. 
+
+Il sera question de notamment faire un backend comprenant les informations des officiels pour stocker ces informations et en faire la mise à jourà l'aide du site web. 
+
+
 
 
 
@@ -85,8 +72,32 @@ Game Dev | Terrain/environments :
 https://www.youtube.com/watch?v=XIYLLc4965I
 Ce projet fut le premier travail dans mon cours de développement de jeu vidéo. Nous avons utilisé Unity 2021.1.13f pour faire nos terrains. J'ai utilisé des modèles et autres de pack gratuits et du pack 
 
+Game Dev | Tower Defense :
+https://github.com/xav3428/BOUCHARD_XAVIER_TP2-Tower_Defense
+
+Game Dev | Projet Final
+https://github.com/xav3428/BOUCHARD_XAVIER_TP3
+
+
 Scolarité :
 
 - DES
+    - Cours logiciel outils
+    - Mathématique SN
 - DEC
+    - Centre d'aide, cours d'interaction en contexte professionel
+    - Maintenance d'ordinateur
+    - Cours serveurs et sécurité
+    - Cours web
+    - Cours jeu
+    - Cours Projet d'étude (word, excel, powerpoint, gimp)
+    - Cours perspective
+- Stage été
+    - Tâches en lien avec la maintenance
 
+
+Pour le meme,
+
+Musiqué: 
+
+- 
