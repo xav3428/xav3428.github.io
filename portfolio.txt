@@ -1,6 +1,8 @@
 Qui vous êtes : 
 
-Je suis un étudiant en technique de l'informatique au cégep de l'abitibi-témiscamingue.
+Je suis un étudiant en technique de l'informatique au cégep de l'abitibi-témiscamingue. J'adore apprendre de nouvelles choses et travailler en équipe. L'esprit d'équipe pour moi est quelque chose qui s'applique dans tous mes loisirs. 
+
+La mathématique pour moi est le sujet que je prête le plus d'intérêt. Ce sujet est quelque chose qui m'a mené à la programmation, dont je suis tombé en amour. 
 
 Compétences :
 
@@ -74,8 +76,9 @@ Ce projet fut le premier travail dans mon cours de développement de jeu vidéo.
 
 Game Dev | Tower Defense :
 https://github.com/xav3428/BOUCHARD_XAVIER_TP2-Tower_Defense
+"Tower Defense" fut l'un des projets où nous avons introduit la navigation à notre connaissance de Unity. Le jeu a été fait entièrement par moi. Tous les aspect, environnement, interface graphique et la logique. Les modèles des tourelles et des monstres avaient été procuré par notre professeur.
 
-Game Dev | Projet Final
+Game Dev | Projet Final :
 https://github.com/xav3428/BOUCHARD_XAVIER_TP3
 
 
@@ -96,7 +99,7 @@ Scolarité :
     - Tâches en lien avec la maintenance
 
 
-Pour le meme,
+Pour le meme, 
 
 Musiqué: 
 
