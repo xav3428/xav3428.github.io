@@ -4,6 +4,8 @@ Je suis un étudiant en technique de l'informatique au cégep de l'abitibi-témi
 
 La mathématique pour moi est le sujet que je prête le plus d'intérêt. Ce sujet est quelque chose qui m'a mené à la programmation, dont je suis tombé en amour. 
 
+J'adore les jeux vidéos.
+
 Compétences :
 
 - Gestion du stress
@@ -27,25 +29,25 @@ Compétences :
 Connaissances :
 
 // Langages
-- JavaScript (Average)
-- PHP (Advanced)
-- Python (Average)
-- HTML (Advanced)
-- CSS (Advanced)
-- C# (Advanced)
+- JavaScript (Intermédiaire)
+- PHP (Avancé)
+- Python (Intermédiaire)
+- HTML (Avancé)
+- CSS (Avancé)
+- C# (Avancé)
 
 // Frameworks
-- NextJS (Beginner)
-- React (Beginner)
+- NextJS (Débutant)
+- React (Débutant)
 
 // Logiciels
-- GIMP (Average)
-- Office 365 (Advanced)
-- GitLab/Github (Average)
-- Microtik (Average)
-- Unity (Average)
-- VSCode (Average)
-- Docker (Average)
+- GIMP (Avancé)
+- Office 365 (Avancé)
+- GitLab/Github (Intermédiaire)
+- Microtik (Intermédiaire)
+- Unity (Intermédiaire)
+- VSCode (Intermédiaire)
+- Docker (Intermédiaire)
 
 Réalisations :
 
@@ -70,15 +72,15 @@ Le jeu spaceinvader a été fait avec des classes fesant partie d'une hiérarchi
 
 ////
 
-Game Dev | Terrain/environments :
+Développement de jeu vidéo | Terrain/environments :
 https://www.youtube.com/watch?v=XIYLLc4965I
 Ce projet fut le premier travail dans mon cours de développement de jeu vidéo. Nous avons utilisé Unity 2021.1.13f pour faire nos terrains. J'ai utilisé des modèles et autres de pack gratuits et du pack 
 
-Game Dev | Tower Defense :
+Développement de jeu vidéo | Tower Defense :
 https://github.com/xav3428/BOUCHARD_XAVIER_TP2-Tower_Defense
 "Tower Defense" fut l'un des projets où nous avons introduit la navigation à notre connaissance de Unity. Le jeu a été fait entièrement par moi. Tous les aspect, environnement, interface graphique et la logique. Les modèles des tourelles et des monstres avaient été procuré par notre professeur.
 
-Game Dev | Projet Final :
+Développement de jeu vidéo | Projet Final :
 https://github.com/xav3428/BOUCHARD_XAVIER_TP3
 
 
