@@ -280,3 +280,20 @@ body {
         text-shadow: none;
     }
 }
+
+.competencesList {
+    list-style: none;
+    padding: 0;
+}
+
+.leftTextAlign {
+    text-align: left;
+}
+
+.rightTextAlign {
+    text-align: right;
+}
+
+.centerTextAlign {
+    text-align: center;
+}
