@@ -12,6 +12,8 @@
     --color6: #0400ff;
     --color7: #2b2ed9;
     --color8: #2321a6;
+    --gradient-top-to-bottom: linear-gradient(#ff0000, #0400ff);
+    --gradient-left-to-right: linear-gradient(0.25turn, #ff0000, #0400ff);
 }
 
 /* width */
@@ -21,17 +23,17 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: var(--color3);
+    background: var(--gradient-top-to-bottom);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: var(--color1);
+    background: var(--color4);
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--color2);
+    background: var(--color5);
 }
 
 /* Custom default button */
@@ -46,10 +48,8 @@
 
 .btn-secondary:hover,
 .btn-secondary:focus {
-    animation: flicker 5s infinite alternate;
     color: var(--color5);
-    text-shadow:
-        0 0 7px var(--color0),
+    text-shadow: 0 0 7px var(--color0),
         0 0 10px var(--color0),
         0 0 21px var(--color0),
         0 0 42px var(--color1),
@@ -58,15 +58,14 @@
         0 0 102px var(--color2),
         0 0 151px var(--color1);
 
-    box-shadow:
-        0 0 7px var(--color0),
-        0 0 10px var(--color0),
-        0 0 21px var(--color0),
-        0 0 42px var(--color1),
-        0 0 82px var(--color1),
-        0 0 92px var(--color2),
-        0 0 102px var(--color2),
-        0 0 151px var(--color1);
+    box-shadow: 0 0 3px var(--color6),
+        0 0 5px var(--color6),
+        0 0 10px var(--color6),
+        0 0 21px var(--color7),
+        0 0 41px var(--color7),
+        0 0 46px var(--color8),
+        0 0 51px var(--color8),
+        0 0 75px var(--color7);
 }
 
 /*
@@ -158,9 +157,14 @@ body {
 
 .nav {
     --bs-nav-link-color: var(--color1) !important;
-    --bs-nav-link-hover-color: var(--color0) !important;
+    background: var(--color0);
+    -webkit-background-clip: text;
+    font-size: larger;
 }
 
+.nav-link:hover {
+    -webkit-text-fill-color: transparent;
+}
 
 /*
  * Cover
@@ -226,15 +230,15 @@ body {
 }
 
 .redirectLink:link {
-    color: var(--color1);
+    color: var(--color4);
 }
 
 .redirectLink:visited {
-    color: var(--color2);
+    color: var(--color4);
 }
 
 .redirectLink:hover {
-    color: var(--color4);
+    color: var(--color0);
 }
 
 .redirectLink:active {
@@ -247,8 +251,7 @@ body {
 
 .neonTextRed {
     color: #fff;
-    text-shadow:
-        0 0 7px var(--color0),
+    text-shadow: 0 0 7px var(--color0),
         0 0 10px var(--color0),
         0 0 21px var(--color0),
         0 0 42px var(--color1),
@@ -260,8 +263,7 @@ body {
 
 .neonTextBlue {
     color: #fff;
-    text-shadow:
-        0 0 7px var(--color6),
+    text-shadow: 0 0 7px var(--color6),
         0 0 10px var(--color6),
         0 0 21px var(--color6),
         0 0 42px var(--color7),
