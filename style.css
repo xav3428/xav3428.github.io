@@ -127,8 +127,8 @@ body {
     padding: .625rem 0;
     font-weight: 700;
     color: rgba(255, 255, 255, .5);
-    background-color: transparent;
     border-bottom: .25rem solid transparent;
+    transition: all 0.5s ease;
 }
 
 .nav-masthead .nav-link:hover,
@@ -227,6 +227,7 @@ body {
 
 .redirectLink {
     text-decoration: none;
+    transition: all 0.2s ease;
 }
 
 .redirectLink:link {
